@@ -10,6 +10,9 @@ Objectives:
 
 Screenshots of Website: 
 <img src="https://github.com/owaspvit/ICRTAC-2020/blob/main/images/web_ss1.PNG">
+<img src="https://github.com/owaspvit/ICRTAC-2020/blob/main/images/web_ss2.PNG">
+<img src="https://github.com/owaspvit/ICRTAC-2020/blob/main/images/web_ss3.PNG">
+<img src="https://github.com/owaspvit/ICRTAC-2020/blob/main/images/web_ss4.PNG">
 
 Contributors:
 - Apratim Shukla
