@@ -16,6 +16,7 @@ Screenshots of Website:
 
 Contributors:
 - Apratim Shukla
-- Swapnil
-- Yashashwini Dixit
+- Swapnil Mishra
+- Aakash Ratha
 - Nikhil Chapre
+- Yashashwini Dixit
