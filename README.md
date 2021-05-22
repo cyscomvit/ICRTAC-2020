@@ -9,6 +9,7 @@ Objectives:
 - We will give also professional and industry leaders the opportunity to get another vision of their market and the future of their business.
 
 Screenshots of Website: 
+<img src="https://github.com/owaspvit/ICRTAC-2020/blob/main/images/web_ss1.PNG">
 
 Contributors:
 - Apratim Shukla
