@@ -15,8 +15,8 @@ Screenshots of Website:
 <img src="https://github.com/owaspvit/ICRTAC-2020/blob/main/images/web_ss4.PNG">
 
 Contributors:
-- Apratim Shukla
-- Swapnil Mishra
-- Aakash Ratha
-- Nikhil Chapre
-- Yashashwini Dixit
+- [Apratim Shukla](https://github.com/apratimshukla6)
+- [Swapnil Mishra](https://github.com/Swapnil0115)
+- [Aakash Ratha](https://github.com/aakashratha1006)
+- [Nikhil Chapre](https://github.com/NikhilC2209)
+- [Yashashwini Dixit](https://github.com/YashashwiniDixit)
